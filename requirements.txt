@@ -1,0 +1,4 @@
+# Optional: only needed to parse DiscordChatExporter HTML exports.
+# JSON exports work with the Python standard library alone.
+beautifulsoup4
+python-dateutil

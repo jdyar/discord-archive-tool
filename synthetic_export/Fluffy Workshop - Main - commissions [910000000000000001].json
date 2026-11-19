@@ -1,0 +1,3784 @@
+{
+ "guild": {
+  "id": "900000000000000001",
+  "name": "Fluffy Workshop (synthetic test server)",
+  "iconUrl": ""
+ },
+ "channel": {
+  "id": "910000000000000001",
+  "type": "GuildTextChat",
+  "categoryId": "1",
+  "category": "Main",
+  "name": "commissions",
+  "topic": "commissions talk"
+ },
+ "dateRange": {
+  "after": null,
+  "before": null
+ },
+ "exportedAt": "2026-02-10T00:00:00+00:00",
+ "messages": [
+  {
+   "id": "1300000000002134006",
+   "type": "Default",
+   "timestamp": "2025-06-01T17:30:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002135624",
+   "type": "Reply",
+   "timestamp": "2025-06-01T18:03:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "😂"
+     },
+     "count": 6
+    }
+   ],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002134006"
+   }
+  },
+  {
+   "id": "1300000000002136935",
+   "type": "Default",
+   "timestamp": "2025-06-02T02:03:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002137602",
+   "type": "Default",
+   "timestamp": "2025-06-02T03:16:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002141678",
+   "type": "Default",
+   "timestamp": "2025-06-02T13:00:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002143384",
+   "type": "Default",
+   "timestamp": "2025-06-02T15:51:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002148704",
+   "type": "Default",
+   "timestamp": "2025-06-02T22:12:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "use duct tape method",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002152867",
+   "type": "Default",
+   "timestamp": "2025-06-03T04:21:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": true,
+   "content": "<@100004> my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100004",
+     "name": "Deleted User",
+     "nickname": "Deleted User"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002157788",
+   "type": "Default",
+   "timestamp": "2025-06-03T08:09:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "thanks!!",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002167154",
+   "type": "Default",
+   "timestamp": "2025-06-03T10:48:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "anyone going to the con this year?",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002176501",
+   "type": "Default",
+   "timestamp": "2025-06-03T17:38:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002178064",
+   "type": "Default",
+   "timestamp": "2025-06-03T22:46:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002180039",
+   "type": "Reply",
+   "timestamp": "2025-06-04T02:39:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002157788"
+   }
+  },
+  {
+   "id": "1300000000002182549",
+   "type": "Default",
+   "timestamp": "2025-06-04T03:31:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002190346",
+   "type": "Default",
+   "timestamp": "2025-06-04T13:17:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002198340",
+   "type": "Default",
+   "timestamp": "2025-06-04T20:02:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002199808",
+   "type": "Default",
+   "timestamp": "2025-06-04T21:58:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "||spoiler: the ending||",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002207054",
+   "type": "Default",
+   "timestamp": "2025-06-05T00:28:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "anyone going to the con this year?",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "❤️"
+     },
+     "count": 2
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002209474",
+   "type": "Reply",
+   "timestamp": "2025-06-05T05:23:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002148704"
+   }
+  },
+  {
+   "id": "1300000000002213712",
+   "type": "Reply",
+   "timestamp": "2025-06-05T14:45:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002209474"
+   }
+  },
+  {
+   "id": "1300000000002214697",
+   "type": "Default",
+   "timestamp": "2025-06-05T19:36:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "use duct tape method",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002220599",
+   "type": "Default",
+   "timestamp": "2025-06-05T21:27:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "lol same",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "🦊"
+     },
+     "count": 4
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002229309",
+   "type": "Reply",
+   "timestamp": "2025-06-05T22:58:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002152867"
+   }
+  },
+  {
+   "id": "1300000000002231882",
+   "type": "Default",
+   "timestamp": "2025-06-05T23:17:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002238226",
+   "type": "Default",
+   "timestamp": "2025-06-05T23:48:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002241953",
+   "type": "Default",
+   "timestamp": "2025-06-06T06:56:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002250823",
+   "type": "Default",
+   "timestamp": "2025-06-06T10:24:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "lol same",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002260078",
+   "type": "Default",
+   "timestamp": "2025-06-06T13:06:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002266862",
+   "type": "Default",
+   "timestamp": "2025-06-06T20:08:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002267292",
+   "type": "Default",
+   "timestamp": "2025-06-07T00:42:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002273419",
+   "type": "Default",
+   "timestamp": "2025-06-07T03:51:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002277066",
+   "type": "Default",
+   "timestamp": "2025-06-07T07:19:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002284072",
+   "type": "Default",
+   "timestamp": "2025-06-07T14:14:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002284703",
+   "type": "Default",
+   "timestamp": "2025-06-07T23:08:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002291051",
+   "type": "Default",
+   "timestamp": "2025-06-08T07:57:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002291945",
+   "type": "Default",
+   "timestamp": "2025-06-08T16:47:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002294162",
+   "type": "Default",
+   "timestamp": "2025-06-08T23:30:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002296849",
+   "type": "Default",
+   "timestamp": "2025-06-09T01:37:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002299469",
+   "type": "Default",
+   "timestamp": "2025-06-09T08:05:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "anyone going to the con this year?",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002300310",
+   "type": "ChannelPinnedMessage",
+   "timestamp": "2025-06-09T15:15:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "Pinned a message.",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002304457",
+   "type": "Default",
+   "timestamp": "2025-06-09T15:28:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100007> my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100007",
+     "name": "runeraccoon",
+     "nickname": "Rune"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002305758",
+   "type": "Default",
+   "timestamp": "2025-06-09T15:35:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "meeting moved to saturday",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [
+    {
+     "id": "1300000000002305758",
+     "url": "media/1300000000002305758.png",
+     "fileName": "1300000000002305758.png",
+     "fileSizeBytes": 120
+    }
+   ],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002315643",
+   "type": "Default",
+   "timestamp": "2025-06-09T20:41:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "meeting moved to saturday",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002325020",
+   "type": "Default",
+   "timestamp": "2025-06-10T06:17:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100004> my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100004",
+     "name": "Deleted User",
+     "nickname": "Deleted User"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002334039",
+   "type": "Default",
+   "timestamp": "2025-06-10T07:24:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002335830",
+   "type": "Default",
+   "timestamp": "2025-06-10T17:10:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002345254",
+   "type": "Default",
+   "timestamp": "2025-06-10T23:13:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002348426",
+   "type": "Default",
+   "timestamp": "2025-06-10T23:15:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "anyone going to the con this year?",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002354155",
+   "type": "ChannelPinnedMessage",
+   "timestamp": "2025-06-11T08:49:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "Pinned a message.",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002213712"
+   }
+  },
+  {
+   "id": "1300000000002359616",
+   "type": "Default",
+   "timestamp": "2025-06-11T14:39:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002367391",
+   "type": "Default",
+   "timestamp": "2025-06-11T15:16:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002368309",
+   "type": "Default",
+   "timestamp": "2025-06-12T00:10:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002374103",
+   "type": "Default",
+   "timestamp": "2025-06-12T01:18:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "lol same",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002376018",
+   "type": "Default",
+   "timestamp": "2025-06-12T06:34:00.000+00:00",
+   "timestampEdited": "2025-06-12T06:37:00+00:00",
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002380972",
+   "type": "Default",
+   "timestamp": "2025-06-12T09:34:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [
+    {
+     "id": "1300000000002380972",
+     "url": "media/1300000000002380972.png",
+     "fileName": "1300000000002380972.png",
+     "fileSizeBytes": 120
+    }
+   ],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002389552",
+   "type": "Default",
+   "timestamp": "2025-06-12T14:52:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "new commission slots open soon",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002395903",
+   "type": "Default",
+   "timestamp": "2025-06-12T23:47:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "anyone going to the con this year?",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002401023",
+   "type": "Default",
+   "timestamp": "2025-06-13T00:11:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002403470",
+   "type": "Default",
+   "timestamp": "2025-06-13T02:53:00.000+00:00",
+   "timestampEdited": "2025-06-13T02:56:00+00:00",
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002408112",
+   "type": "Default",
+   "timestamp": "2025-06-13T12:41:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "new commission slots open soon",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002409848",
+   "type": "Default",
+   "timestamp": "2025-06-13T19:14:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002414968",
+   "type": "Default",
+   "timestamp": "2025-06-14T00:55:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100007> how do you pattern a fursuit head?",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100007",
+     "name": "runeraccoon",
+     "nickname": "Rune"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002416562",
+   "type": "Default",
+   "timestamp": "2025-06-14T08:42:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002422517",
+   "type": "Default",
+   "timestamp": "2025-06-14T15:24:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "❤️"
+     },
+     "count": 3
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002425316",
+   "type": "Default",
+   "timestamp": "2025-06-14T20:14:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002430266",
+   "type": "Default",
+   "timestamp": "2025-06-15T05:20:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "||spoiler: the ending||",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "😂"
+     },
+     "count": 6
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002437399",
+   "type": "Default",
+   "timestamp": "2025-06-15T15:01:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002447166",
+   "type": "Default",
+   "timestamp": "2025-06-15T22:56:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002453375",
+   "type": "ChannelPinnedMessage",
+   "timestamp": "2025-06-16T04:32:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "Pinned a message.",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002455779",
+   "type": "Default",
+   "timestamp": "2025-06-16T07:05:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002460769",
+   "type": "Default",
+   "timestamp": "2025-06-16T14:31:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "❤️"
+     },
+     "count": 1
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002466655",
+   "type": "Default",
+   "timestamp": "2025-06-16T16:24:00.000+00:00",
+   "timestampEdited": "2025-06-16T16:27:00+00:00",
+   "isPinned": false,
+   "content": "thanks!!",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002470116",
+   "type": "Default",
+   "timestamp": "2025-06-16T19:22:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "new commission slots open soon",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002472317",
+   "type": "Default",
+   "timestamp": "2025-06-16T19:34:00.000+00:00",
+   "timestampEdited": "2025-06-16T19:37:00+00:00",
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "👍"
+     },
+     "count": 4
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002482220",
+   "type": "Default",
+   "timestamp": "2025-06-17T02:50:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002486099",
+   "type": "Default",
+   "timestamp": "2025-06-17T11:24:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100000> ||spoiler: the ending||",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100000",
+     "name": "mossfox",
+     "nickname": "Moss 🦊"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002487411",
+   "type": "Default",
+   "timestamp": "2025-06-17T13:50:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002496246",
+   "type": "Default",
+   "timestamp": "2025-06-17T23:44:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002503144",
+   "type": "Default",
+   "timestamp": "2025-06-18T05:46:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "lol same",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002512617",
+   "type": "Default",
+   "timestamp": "2025-06-18T08:40:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002517170",
+   "type": "Default",
+   "timestamp": "2025-06-18T12:59:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100001> *so* tired today",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100001",
+     "name": "tidewolf",
+     "nickname": "Tide"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002523229",
+   "type": "Default",
+   "timestamp": "2025-06-18T15:59:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "use duct tape method",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "😂"
+     },
+     "count": 5
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002525755",
+   "type": "Default",
+   "timestamp": "2025-06-19T00:27:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "use duct tape method",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002530087",
+   "type": "Default",
+   "timestamp": "2025-06-19T02:26:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "new commission slots open soon",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002536478",
+   "type": "Default",
+   "timestamp": "2025-06-19T10:32:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "new commission slots open soon",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002537151",
+   "type": "Default",
+   "timestamp": "2025-06-19T12:12:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "thanks!!",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "👍"
+     },
+     "count": 4
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002541113",
+   "type": "Default",
+   "timestamp": "2025-06-19T15:32:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "❤️"
+     },
+     "count": 5
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002548420",
+   "type": "Reply",
+   "timestamp": "2025-06-19T21:32:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100001> how do you pattern a fursuit head?",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100001",
+     "name": "tidewolf",
+     "nickname": "Tide"
+    }
+   ],
+   "reference": {
+    "messageId": "1300000000002487411"
+   }
+  },
+  {
+   "id": "1300000000002550416",
+   "type": "Default",
+   "timestamp": "2025-06-19T23:35:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "thanks!!",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002553435",
+   "type": "Default",
+   "timestamp": "2025-06-20T03:55:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002558734",
+   "type": "Default",
+   "timestamp": "2025-06-20T08:19:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "use duct tape method",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002565953",
+   "type": "Default",
+   "timestamp": "2025-06-20T09:31:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "meeting moved to saturday",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002567694",
+   "type": "Default",
+   "timestamp": "2025-06-20T17:04:00.000+00:00",
+   "timestampEdited": "2025-06-20T17:07:00+00:00",
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [
+    {
+     "id": "1300000000002567694",
+     "url": "media/1300000000002567694.png",
+     "fileName": "1300000000002567694.png",
+     "fileSizeBytes": 120
+    }
+   ],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002574106",
+   "type": "Default",
+   "timestamp": "2025-06-21T02:53:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002577807",
+   "type": "Default",
+   "timestamp": "2025-06-21T02:57:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002579293",
+   "type": "Default",
+   "timestamp": "2025-06-21T09:12:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002584190",
+   "type": "Default",
+   "timestamp": "2025-06-21T15:52:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "❤️"
+     },
+     "count": 6
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002588098",
+   "type": "ChannelPinnedMessage",
+   "timestamp": "2025-06-22T00:13:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "Pinned a message.",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002593657",
+   "type": "Default",
+   "timestamp": "2025-06-22T01:11:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "use duct tape method",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002602449",
+   "type": "Reply",
+   "timestamp": "2025-06-22T03:44:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "meeting moved to saturday",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [
+    {
+     "id": "1300000000002602449",
+     "url": "https://cdn.discordapp.com/attachments/1/1300000000002602449/1300000000002602449.png?ex=deadbeef",
+     "fileName": "1300000000002602449.png",
+     "fileSizeBytes": 120
+    }
+   ],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002512617"
+   }
+  },
+  {
+   "id": "1300000000002603268",
+   "type": "Default",
+   "timestamp": "2025-06-22T08:59:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100001> my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100001",
+     "name": "tidewolf",
+     "nickname": "Tide"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002606589",
+   "type": "Default",
+   "timestamp": "2025-06-22T16:16:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "use duct tape method",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002610083",
+   "type": "Default",
+   "timestamp": "2025-06-22T17:03:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002619619",
+   "type": "Default",
+   "timestamp": "2025-06-22T17:45:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "❤️"
+     },
+     "count": 2
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002629347",
+   "type": "Default",
+   "timestamp": "2025-06-22T22:36:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002632207",
+   "type": "Default",
+   "timestamp": "2025-06-22T23:15:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "😂"
+     },
+     "count": 2
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002640894",
+   "type": "Default",
+   "timestamp": "2025-06-23T00:53:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "thanks!!",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002643339",
+   "type": "Default",
+   "timestamp": "2025-06-23T08:59:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "<@100005> new commission slots open soon",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [
+    {
+     "id": "100005",
+     "name": "ModBot",
+     "nickname": "ModBot"
+    }
+   ],
+   "reference": null
+  },
+  {
+   "id": "1300000000002650764",
+   "type": "Reply",
+   "timestamp": "2025-06-23T09:44:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002430266"
+   }
+  },
+  {
+   "id": "1300000000002660475",
+   "type": "Default",
+   "timestamp": "2025-06-23T19:38:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "||spoiler: the ending||",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "👍"
+     },
+     "count": 2
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002664091",
+   "type": "Default",
+   "timestamp": "2025-06-23T20:54:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002667273",
+   "type": "Default",
+   "timestamp": "2025-06-24T03:02:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002672903",
+   "type": "Default",
+   "timestamp": "2025-06-24T06:48:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002679649",
+   "type": "Default",
+   "timestamp": "2025-06-24T15:43:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "thanks!!",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002685012",
+   "type": "Default",
+   "timestamp": "2025-06-24T23:08:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "meeting moved to saturday",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "👍"
+     },
+     "count": 6
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002685563",
+   "type": "Default",
+   "timestamp": "2025-06-25T06:24:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002692226",
+   "type": "Default",
+   "timestamp": "2025-06-25T10:08:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002701789",
+   "type": "Default",
+   "timestamp": "2025-06-25T10:33:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002702948",
+   "type": "Default",
+   "timestamp": "2025-06-25T17:08:00.000+00:00",
+   "timestampEdited": "2025-06-25T17:11:00+00:00",
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002704275",
+   "type": "Default",
+   "timestamp": "2025-06-25T22:52:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002707147",
+   "type": "Default",
+   "timestamp": "2025-06-26T08:25:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002716652",
+   "type": "Default",
+   "timestamp": "2025-06-26T12:00:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002725282",
+   "type": "Default",
+   "timestamp": "2025-06-26T14:06:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002726358",
+   "type": "Default",
+   "timestamp": "2025-06-26T17:19:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002734490",
+   "type": "Default",
+   "timestamp": "2025-06-26T19:54:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "call me at 555-123-4567",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002734842",
+   "type": "Default",
+   "timestamp": "2025-06-27T00:53:00.000+00:00",
+   "timestampEdited": "2025-06-27T00:56:00+00:00",
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002740189",
+   "type": "Default",
+   "timestamp": "2025-06-27T09:11:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002740965",
+   "type": "Default",
+   "timestamp": "2025-06-27T11:43:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "lol same",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002743480",
+   "type": "Default",
+   "timestamp": "2025-06-27T14:29:00.000+00:00",
+   "timestampEdited": "2025-06-27T14:32:00+00:00",
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002748673",
+   "type": "Default",
+   "timestamp": "2025-06-27T20:22:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [
+    {
+     "id": "1300000000002748673",
+     "url": "https://cdn.discordapp.com/attachments/1/1300000000002748673/1300000000002748673.png?ex=deadbeef",
+     "fileName": "1300000000002748673.png",
+     "fileSizeBytes": 120
+    }
+   ],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002753920",
+   "type": "Default",
+   "timestamp": "2025-06-27T23:02:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002763320",
+   "type": "Default",
+   "timestamp": "2025-06-28T01:33:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002766931",
+   "type": "Default",
+   "timestamp": "2025-06-28T09:10:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002768301",
+   "type": "Default",
+   "timestamp": "2025-06-28T18:22:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002774217",
+   "type": "Default",
+   "timestamp": "2025-06-29T01:10:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002775653",
+   "type": "Default",
+   "timestamp": "2025-06-29T04:51:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "how do you pattern a fursuit head?",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002777940",
+   "type": "Default",
+   "timestamp": "2025-06-29T06:20:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002778049",
+   "type": "Default",
+   "timestamp": "2025-06-29T13:20:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "||spoiler: the ending||",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002786087",
+   "type": "Default",
+   "timestamp": "2025-06-29T14:04:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "thanks!!",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002793830",
+   "type": "Reply",
+   "timestamp": "2025-06-29T16:12:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "||spoiler: the ending||",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002460769"
+   }
+  },
+  {
+   "id": "1300000000002799758",
+   "type": "Default",
+   "timestamp": "2025-06-30T02:08:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002800046",
+   "type": "Default",
+   "timestamp": "2025-06-30T06:34:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002805879",
+   "type": "Default",
+   "timestamp": "2025-06-30T07:24:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "lol same",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "😂"
+     },
+     "count": 5
+    }
+   ],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002811060",
+   "type": "Default",
+   "timestamp": "2025-06-30T12:33:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "gm everyone",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002819005",
+   "type": "Default",
+   "timestamp": "2025-06-30T19:35:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "meeting moved to saturday",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002827618",
+   "type": "Default",
+   "timestamp": "2025-07-01T04:40:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "||spoiler: the ending||",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002834859",
+   "type": "Default",
+   "timestamp": "2025-07-01T13:36:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "new commission slots open soon",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002836913",
+   "type": "Reply",
+   "timestamp": "2025-07-01T17:11:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100002",
+    "name": "pixelotter",
+    "discriminator": "0000",
+    "nickname": "Otter",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "❤️"
+     },
+     "count": 1
+    }
+   ],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002726358"
+   }
+  },
+  {
+   "id": "1300000000002845326",
+   "type": "Reply",
+   "timestamp": "2025-07-01T18:12:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002238226"
+   }
+  },
+  {
+   "id": "1300000000002848604",
+   "type": "Default",
+   "timestamp": "2025-07-01T21:22:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "anyone going to the con this year?",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002852567",
+   "type": "Default",
+   "timestamp": "2025-07-02T06:00:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100001",
+    "name": "tidewolf",
+    "discriminator": "0000",
+    "nickname": "Tide",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002852638",
+   "type": "Default",
+   "timestamp": "2025-07-02T07:42:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "meeting moved to saturday",
+   "author": {
+    "id": "100003",
+    "name": "emberhyena",
+    "discriminator": "0000",
+    "nickname": "Ember",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002858452",
+   "type": "Default",
+   "timestamp": "2025-07-02T14:11:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002864371",
+   "type": "Default",
+   "timestamp": "2025-07-02T19:07:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "finished the **ref sheet** finally",
+   "author": {
+    "id": "100000",
+    "name": "mossfox",
+    "discriminator": "0000",
+    "nickname": "Moss 🦊",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002873447",
+   "type": "ChannelPinnedMessage",
+   "timestamp": "2025-07-03T02:05:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "Pinned a message.",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002881503",
+   "type": "Default",
+   "timestamp": "2025-07-03T03:53:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "my email is mossfox@example.com if you want the file",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002884268",
+   "type": "Default",
+   "timestamp": "2025-07-03T05:00:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100005",
+    "name": "ModBot",
+    "discriminator": "0000",
+    "nickname": "ModBot",
+    "isBot": true,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002893803",
+   "type": "Default",
+   "timestamp": "2025-07-03T09:40:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "`#ff8800` is the orange I used",
+   "author": {
+    "id": "100006",
+    "name": "quillcat",
+    "discriminator": "0000",
+    "nickname": "Quill",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  },
+  {
+   "id": "1300000000002897911",
+   "type": "Reply",
+   "timestamp": "2025-07-03T18:02:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "check this out https://example.com/wip",
+   "author": {
+    "id": "100007",
+    "name": "runeraccoon",
+    "discriminator": "0000",
+    "nickname": "Rune",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [
+    {
+     "emoji": {
+      "name": "😂"
+     },
+     "count": 4
+    }
+   ],
+   "mentions": [],
+   "reference": {
+    "messageId": "1300000000002207054"
+   }
+  },
+  {
+   "id": "1300000000002903268",
+   "type": "Default",
+   "timestamp": "2025-07-03T20:39:00.000+00:00",
+   "timestampEdited": null,
+   "isPinned": false,
+   "content": "*so* tired today",
+   "author": {
+    "id": "100004",
+    "name": "Deleted User",
+    "discriminator": "0000",
+    "nickname": "Deleted User",
+    "isBot": false,
+    "avatarUrl": ""
+   },
+   "attachments": [],
+   "embeds": [],
+   "stickers": [],
+   "reactions": [],
+   "mentions": [],
+   "reference": null
+  }
+ ],
+ "messageCount": 160
+}

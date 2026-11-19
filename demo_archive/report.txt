@@ -1,0 +1,23 @@
+Archive: Fluffy Workshop (synthetic test server)
+Built: 2026-11-18T20:56:35
+
+clean_messages: 591
+contacts_redacted: 85
+duplicates_removed: 50
+files: 4
+media_copied: 17
+media_remote_only: 9
+opt_out_removed: 83
+raw_messages: 740
+system_dropped: 16
+
+Attachments without a local copy (9). Re-export with DiscordChatExporter --media to save them:
+commissions  2025-06-27T20:22:00.000+00:00  1300000000002748673.png
+general  2025-06-04T23:16:00.000+00:00  1300000000000056971.png
+general  2025-06-05T11:18:00.000+00:00  1300000000000064802.png
+general  2025-06-07T01:22:00.000+00:00  1300000000000109076.png
+general  2025-06-22T20:05:00.000+00:00  1300000000000552017.png
+general  2025-06-26T21:17:00.000+00:00  1300000000000677950.png
+general  2025-06-28T08:22:00.000+00:00  1300000000000709999.png
+general  2025-06-30T22:23:00.000+00:00  1300000000000782466.png
+general  2025-08-18T19:34:00.000+00:00  1300000000001945190.png
